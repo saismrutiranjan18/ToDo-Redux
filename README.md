@@ -1,4 +1,4 @@
-# Simple Todo App with Redux
+# Simple Todo App With Redux
 
 This is a basic Todo application built with React and Redux to manage state. It demonstrates essential Redux concepts including actions, reducers, and store management to create, complete, and delete tasks. Users can:
 
